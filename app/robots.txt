@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://bokepbocilsd.pages.dev/sitemap.xml
